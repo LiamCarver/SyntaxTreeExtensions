@@ -1,0 +1,13 @@
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\bin\Debug\netstandard2.0\SyntaxTreeExtensions.deps.json
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\bin\Debug\netstandard2.0\SyntaxTreeExtensions.dll
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\bin\Debug\netstandard2.0\SyntaxTreeExtensions.pdb
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\bin\Debug\netstandard2.0\CSharpClassHelper.dll
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\bin\Debug\netstandard2.0\CSharpClassHelper.pdb
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\obj\Debug\netstandard2.0\SyntaxTreeExtensions.csproj.AssemblyReference.cache
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\obj\Debug\netstandard2.0\SyntaxTreeExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\obj\Debug\netstandard2.0\SyntaxTreeExtensions.AssemblyInfoInputs.cache
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\obj\Debug\netstandard2.0\SyntaxTreeExtensions.AssemblyInfo.cs
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\obj\Debug\netstandard2.0\SyntaxTreeExtensions.csproj.CoreCompileInputs.cache
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\obj\Debug\netstandard2.0\SyntaxTreeExtensions.csproj.CopyComplete
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\obj\Debug\netstandard2.0\SyntaxTreeExtensions.dll
+C:\Users\liamc\source\repos\SyntaxTreeExtensions\obj\Debug\netstandard2.0\SyntaxTreeExtensions.pdb
